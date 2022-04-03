@@ -1,2 +1,2 @@
 To run script:
-$ python3 hello.py
+python3 hello.py
